@@ -149,14 +149,14 @@ const about = {
   },
   studies: {
     display: true, // set to false to hide this section
-    title: "Studies",
+    title: "Education",
     institutions: [
       {
-        name: "University of Jakarta",
+        name: "Concordia University",
         description: <>Studied software engineering.</>,
       },
       {
-        name: "Build the Future",
+        name: "Carleton University",
         description: <>Studied online marketing and personal branding.</>,
       },
     ],
